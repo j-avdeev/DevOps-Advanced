@@ -31,8 +31,8 @@ References:
 
 |                                          |  1-Minikube | 2-Helm.JupyterHub | 3-? | 4-?  | 5-? | k8s |  ?6-? (Additional) |
 | ---------------------------------------- | --- | --- | --- | --- | --- | --- | --- |
-| Soft Deadline (50% reduction if missed)  | 30.10.2022 (0.25 pts)| 06.11.2022 (0.25 pts)| ? (0.5 pts) | ? (0.25 pts) |  ? (0.25 pts) | ? | (0.25 pts) ToDo |
-| Hard Deadline (100% reduction if missed) | 06.11.2022 (0.12 pts) | 13.11.2022 (0.12 pts) | ? (0.25 pts) | ? (0.12 pts) |  ? (0.25 pts) | ? | (0.25 pts) ToDo |
+| Soft Deadline (50% reduction if missed)  | 30.10.2022 (0.25 pts)| 06.11.2022 (0.5 pts)| ? (0.5 pts) | ? (0.25 pts) |  ? (0.25 pts) | ? | (0.25 pts) ToDo |
+| Hard Deadline (100% reduction if missed) | 06.11.2022 (0.12 pts) | 13.11.2022 (0.25 pts) | ? (0.25 pts) | ? (0.12 pts) |  ? (0.25 pts) | ? | (0.25 pts) ToDo |
 
 
 #### Points in grades conversion
