@@ -3,9 +3,23 @@
 
 ### Assignment1 - Github + Jenkins
 
-
 See also:
 https://j-avdeev.github.io/DevOps/CICD-1-Git-Jenkins%20%28on%20premise%29.html
+
+1. Start Jenkins (install or use docker container)
+
+for example:
+
+docker run -p 8080:8080 -p 50000:50000 jenkins/jenkins
+
+2. Create Github account and fork https://github.com/Sunagatov/Hello.git
+4. Create Jenkins-project, setup Jenkins-Github integration
+5. Install maven, setup Jenkins-Maven integration
+6. Test Github-Jenkins-Maven work
+
++ 0.2 pts in case of creation Dockerfile based on officital Jenkins image + Maven
+
+
 
 
 
@@ -38,7 +52,7 @@ References:
 
 ### Assignment Deadlines 'Autumn 2023
 
-|                                          |  1-Github+Jenins | Helm.JupyterHub | 3-? | 4-?  | 5-? | k8s |  ?6-? (Additional) |
+|                                          |  1-Github+Jenkins | Helm.JupyterHub | 3-? | 4-?  | 5-? | k8s |  ?6-? (Additional) |
 | ---------------------------------------- | --- | --- | --- | --- | --- | --- | --- |
 | Soft Deadline (50% reduction if missed)  | 15.10.2023 (1 pts)| 06.11.2022 (0.5 pts)| ? (0.5 pts) | ? (0.25 pts) |  ? (0.25 pts) | ? | (0.25 pts) ToDo |
 | Hard Deadline (100% reduction if missed) | 22.11.2022 (0.5 pts) | 13.11.2022 (0.25 pts) | ? (0.25 pts) | ? (0.12 pts) |  ? (0.25 pts) | ? | (0.25 pts) ToDo |
