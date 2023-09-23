@@ -1,6 +1,15 @@
 ## DevOps Methodologies (DevOps Advanced)
 ---
-### Assignment1 - Minikube
+
+### Assignment1 - Github + Jenkins
+
+
+See also:
+https://j-avdeev.github.io/DevOps/CICD-1-Git-Jenkins%20%28on%20premise%29.html
+
+
+
+### Assignment - Minikube
 Install and run local Kubernetes cluster with **minikube**  
 Use steps from `Kubernetes install Tools` https://kubernetes.io/docs/tasks/tools/  
 Make report with screens of:
@@ -9,7 +18,7 @@ Make report with screens of:
 * web-abblication in your web-browser (http://localhost:7080/ in tutorial)
 
 ---
-### Assignment2 - Helm. JupyterHub
+### Assignment - Helm. JupyterHub
 Install Helm, Jupyterhub according with 
 https://github.com/jupyterhub/zero-to-jupyterhub-k8s
 https://z2jh.jupyter.org/en/stable/
@@ -27,12 +36,12 @@ References:
 
 ---
 
-### Assignment Deadlines 'Autumn 2022
+### Assignment Deadlines 'Autumn 2023
 
-|                                          |  1-Minikube | 2-Helm.JupyterHub | 3-? | 4-?  | 5-? | k8s |  ?6-? (Additional) |
+|                                          |  1-Github+Jenins | Helm.JupyterHub | 3-? | 4-?  | 5-? | k8s |  ?6-? (Additional) |
 | ---------------------------------------- | --- | --- | --- | --- | --- | --- | --- |
-| Soft Deadline (50% reduction if missed)  | 30.10.2022 (0.25 pts)| 06.11.2022 (0.5 pts)| ? (0.5 pts) | ? (0.25 pts) |  ? (0.25 pts) | ? | (0.25 pts) ToDo |
-| Hard Deadline (100% reduction if missed) | 06.11.2022 (0.12 pts) | 13.11.2022 (0.25 pts) | ? (0.25 pts) | ? (0.12 pts) |  ? (0.25 pts) | ? | (0.25 pts) ToDo |
+| Soft Deadline (50% reduction if missed)  | 15.10.2023 (1 pts)| 06.11.2022 (0.5 pts)| ? (0.5 pts) | ? (0.25 pts) |  ? (0.25 pts) | ? | (0.25 pts) ToDo |
+| Hard Deadline (100% reduction if missed) | 22.11.2022 (0.5 pts) | 13.11.2022 (0.25 pts) | ? (0.25 pts) | ? (0.12 pts) |  ? (0.25 pts) | ? | (0.25 pts) ToDo |
 
 
 #### Points in grades conversion
